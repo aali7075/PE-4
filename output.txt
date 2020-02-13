@@ -1,0 +1,61 @@
+STATE OF THE GAME
+Turn 0
+
+[] [] []
+[] [] []
+[] [] []
+Input Row Location Index Starts At 0: 1
+Input Column Location Index Starts At 0: 1
+
+Please enter your marker
+X
+STATE OF THE GAME
+Turn 1
+
+[] [] []
+[] X []
+[] [] []
+Input Row Location Index Starts At 0: 0
+Input Column Location Index Starts At 0: 0
+
+Please enter your marker
+O
+STATE OF THE GAME
+Turn 2
+
+O [] []
+[] X []
+[] [] []
+Input Row Location Index Starts At 0: 0
+Input Column Location Index Starts At 0: 1
+
+Please enter your marker
+X
+STATE OF THE GAME
+Turn 3
+
+O X []
+[] X []
+[] [] []
+Input Row Location Index Starts At 0: 0
+Input Column Location Index Starts At 0: 2
+
+Please enter your marker
+O
+STATE OF THE GAME
+Turn 4
+
+O X O
+[] X []
+[] [] []
+Input Row Location Index Starts At 0: 2
+Input Column Location Index Starts At 0: 1
+
+Please enter your marker
+X
+STATE OF THE GAME
+Turn 5
+
+O X O
+[] X []
+[] X []
